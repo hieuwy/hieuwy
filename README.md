@@ -1,5 +1,11 @@
 ### Hi there 👋 my name is Nicholas Do
 
+## About Me
+**I am a full-stack web developer that has recently graduated from University of Texas at Austin's Web Development Program. I am here to dominate as a web developer and I am excited to continue learning, collaborating, and creating useful applications!**
+
+
+## Find me at:
+
 ## My GitHub Stats:
 ![Hieuwy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieuwy&theme=nightowl&show_icons=true) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuwy&layout=compact&theme=tokyonight)
