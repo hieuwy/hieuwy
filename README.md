@@ -1,5 +1,9 @@
 ### Hi there 👋 my name is Nicholas Do
 
+## My GitHub Stats:
+![Hieuwy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieuwy&theme=nightowl&show_icons=true) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuwy&layout=compact&theme=tokyonight)
+
 <!--
 **hieuwy/hieuwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
