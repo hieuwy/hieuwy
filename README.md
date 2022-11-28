@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](https://img.shields.io/badge/Created%20by-Nicholas%20Do-blue?style=for-the-badge)  
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]()
 
 ## About Me
 **I am a full-stack web developer that has recently graduated from University of Texas at Austin's Web Development Program. I am here to dominate as a web developer and I am excited to continue learning, collaborating, and creating useful applications!**
