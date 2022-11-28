@@ -10,6 +10,7 @@
 
 
 ## Find me at:
+![nicholas.do1998@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## My GitHub Stats:
 ![Hieuwy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieuwy&theme=nightowl&show_icons=true) &nbsp;
