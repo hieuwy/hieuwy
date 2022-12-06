@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 ![](https://img.shields.io/badge/Created%20by-Nicholas%20-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Created%20by-Tyler%20-blue?style=for-the-badge)  
-![](https://img.shields.io/badge/Created%20by-Jorge%20-blue?style=for-the-badge)  
-![](https://img.shields.io/badge/Created%20by-Javier%20-blue?style=for-the-badge)  
-![](https://img.shields.io/badge/Created%20by-Gavin%20-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Created%20by-Carson%20-blue?style=for-the-badge)
+
 
 
 ## Proficient In
